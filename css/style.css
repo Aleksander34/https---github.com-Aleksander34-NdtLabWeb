@@ -16,3 +16,8 @@
   display: flex;
   vertical-align: middle;
 }
+
+.main_cont {
+  width: 900px;
+  height: 200px;
+}
